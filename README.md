@@ -19,7 +19,7 @@
 
 ## Future Updates
 1. Add option to delete by clicking on list item.
-2. 
+
 
 ## Acknowledgements
 
