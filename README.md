@@ -14,8 +14,7 @@
 ## Technologies Used
 
 **Client:** 
-  &emsp; <a href="https://www.w3schools.com/react/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/831/155/png-transparent-game-react-native-javascript-android-physics-symmetry-web-application-vuejs-thumbnail.png" alt="js" width="30" height="30"/> </a>  
- &emsp; <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/503/848/png-transparent-javascript-computer-icons-software-developer-cascading-style-sheets-javascript-logo-angle-text-rectangle-thumbnail.png" alt="js" width="30" height="30"/> </a>  &emsp;   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>
+  &emsp; <a href="https://www.w3schools.com/react/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/831/155/png-transparent-game-react-native-javascript-android-physics-symmetry-web-application-vuejs-thumbnail.png" alt="js" width="30" height="30"/> </a> &emsp; <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/503/848/png-transparent-javascript-computer-icons-software-developer-cascading-style-sheets-javascript-logo-angle-text-rectangle-thumbnail.png" alt="js" width="30" height="30"/> </a>  &emsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>
 
 
 ## Future Updates
@@ -23,5 +22,5 @@
 
 ## Acknowledgements
 
- - [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
- 1. https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+ 1. [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
+ 2. [Udemy] (https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
