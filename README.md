@@ -1,7 +1,7 @@
 # User List Generator
 
 
-##[Live Demo](https://tarun-sachan.github.io/user-list-react/)
+## [Live Demo](https://tarun-sachan.github.io/user-list-react/)
 
 
 ![Screenshot 2023-01-27 at 00-47-55 React App](https://user-images.githubusercontent.com/117214735/214929861-92447b23-1657-4e06-a501-2067ce4a03aa.png)
