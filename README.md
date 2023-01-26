@@ -1,4 +1,4 @@
-### User List Generator
+## User List Generator
 
 
 ##[Live Demo](https://tarun-sachan.github.io/user-list-react/)
